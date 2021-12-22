@@ -1,0 +1,30 @@
+{
+  "name": "@crystallizer/logger",
+  "version": "1.0.1",
+  "description": "Simple NodeJS logger",
+  "main": "main.js",
+  "files": [
+    "lib"
+  ],
+  "author": "<vladajanosevic@gmail.com> Vlada Janosevic",
+  "license": "MIT",
+  "keywords": [
+    "node-logger",
+    "logger",
+    "error-tracker"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlada-j/logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vlada-j/logger/issues"
+  },
+  "homepage": "https://github.com/vlada-j/logger#readme"
+}
